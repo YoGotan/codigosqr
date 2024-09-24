@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ay5f53');
+  src:  url('fonts/icomoon.eot?ay5f53#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ay5f53') format('truetype'),
+    url('fonts/icomoon.woff?ay5f53') format('woff'),
+    url('fonts/icomoon.svg?ay5f53#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pastel:before {
+  content: "\e913";
+}
+.icon-pastel-de-cumpleanos:before {
+  content: "\e911";
+}
+.icon-local:before {
+  content: "\e910";
+}
+.icon-editar:before {
+  content: "\e90f";
+}
+.icon-buscar:before {
+  content: "\e90e";
+}
+.icon-vale-cantidad:before {
+  content: "\e90b";
+}
+.icon-vale-regalo:before {
+  content: "\e90c";
+}
+.icon-vale-porcentaje:before {
+  content: "\e90d";
+}
+.icon-telefono:before {
+  content: "\e909";
+}
+.icon-mail:before {
+  content: "\e90a";
+}
+.icon-cliente:before {
+  content: "\e907";
+}
+.icon-empleados:before {
+  content: "\e908";
+}
+.icon-zoom:before {
+  content: "\e906";
+}
+.icon-logout:before {
+  content: "\e905";
+}
+.icon-perfil:before {
+  content: "\e904";
+}
+.icon-settings:before {
+  content: "\e903";
+}
+.icon-buscar-qr:before {
+  content: "\e902";
+}
+.icon-codigo-qr:before {
+  content: "\e901";
+}
+.icon-cupon:before {
+  content: "\e900";
+}
+.icon-check:before {
+  content: "\e943";
+}
+.icon-close:before {
+  content: "\e944";
+}
+.icon-calendar:before {
+  content: "\e93f";
+}
+.icon-sistema:before {
+  content: "\e938";
+}
+.icon-campana:before {
+  content: "\e936";
+}
+.icon-users:before {
+  content: "\e92e";
+}
+.icon-estadisticas:before {
+  content: "\e912";
+}
